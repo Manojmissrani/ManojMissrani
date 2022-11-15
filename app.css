@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.class-1{
+    background-color: #ed8034;
+    padding: 150px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    border-bottom:2px solid black ;
+    }
+
+.table{
+    background-color: rgb(89, 133, 255);
+    color: white;
+    margin: 20px;
+}
+table{
+    width: 97%;
+    margin: 20px;
+    height: 200px;
+    background-color: orange;
+}
+p{
+    padding: 10px;
+}
+
+
